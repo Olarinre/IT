@@ -1,0 +1,13 @@
+.form{
+	background-color: blue;
+}
+input {
+    width: 50%;
+}
+
+h1{
+	font-variant: small-caps;
+}
+body{
+	background-color: grey;
+}

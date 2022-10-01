@@ -1,0 +1,26 @@
+.form{
+	background-color: lightblue;
+	width:50%;
+}
+input[type=text],[type=email] {
+    width: 70%;
+    padding: 10px 20px;
+    margin: 4px 2px;
+
+}
+input[type=radio]{
+	padding: 10px 20px;
+  
+}
+input[type=button]{
+	background-color:white;
+}
+
+h1{
+	font-variant: small-caps;
+	color:blue;
+	outline:white;
+}
+body{
+	background-color: lightgrey;
+}
